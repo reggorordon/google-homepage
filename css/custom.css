@@ -1,0 +1,24 @@
+.banner img {
+    	padding-top: 4cm;
+         display:block;
+         width: 400px;
+         border:none;
+         margin:0 auto;
+         }
+
+#inner {
+    	
+         display:block;
+         width: 300px;
+         border:none;
+         margin:0 auto;
+}
+.btn{
+    width:100px;
+    color:azure;
+    border:none;
+   
+}
+.btn :hover{
+border: 1px;
+border-style: solid;}
